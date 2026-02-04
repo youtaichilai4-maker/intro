@@ -10,7 +10,7 @@
 - **ML/Physics:** PyTorch, Optuna
 - **Tools:** Docker, Git, GitHub,  VS Code
 
-## 🚀 Current Projects (Private)
+##  Current Projects (Private)
 現在、以下のプロジェクトを開発中です（研究・受託開発のため非公開）。
 1.  **Semiconductor Carrier Transport Simulator**
     - 物理モデルからのフルスクラッチ実装 (Python/Taichi)
@@ -18,7 +18,10 @@
 2.  **Log Analysis & Recommendation Engine**
     - インターン業務における大規模インフラデータ解析基盤の構築
 
-## 🌟 Personal Projects
+##  Personal Projects
 - **Paper Reader Assistant:** LLMを用いた論文要約・管理ツール
 - **Slide Generator:** Markdownからスライドを自動生成するツール
 
+ポートフォリオ
+
+https://portfolio-psi-ten-t0oworr6eo.vercel.app/
