@@ -1,27 +1,62 @@
-# intro
+# Hi there, I'm Yuta 
 
-# Hi there
-京都大学大学院で計算物理（半導体シミュレーション）と機械学習を研究しています。
-物理モデルの数値計算から、Webアプリケーションの実装までを一気通貫で行う「フルスタック・リサーチャー」、大規模データの解析、活用を行えるデータサイエンティスト、エンジニアを目指しています。
+### Physics  × Web  × AI 
 
-## 🛠 Tech Stack
-- **Languages:** Python , TypeScript, C++
-- **Web:** Next.js, React, PostgreSQL
-- **ML/Physics:** PyTorch, Optuna
-- **Tools:** Docker, Git, GitHub,  VS Code
+京都大学大学院で**計算物理（半導体シミュレーション）**と**機械学習**を研究しています。
+数理モデルの構築から、それを社会実装するWebアプリケーション開発までを一気通貫で行う**「フルスタック・リサーチャー」**を目指し、日々コードを書いています。
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/View_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-psi-ten-t0oworr6eo.vercel.app/)
+
+</div>
+
+---
+
+##  Tech Stack
+
+**Languages**
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+
+**Web Development**
+<img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+
+**ML & Physics**
+<img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/-Optuna-406E8E?style=flat-square" /> <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+
+**Tools & DevOps**
+<img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+
+---
 
 ##  Current Projects (Private)
-現在、以下のプロジェクトを開発中です（研究・受託開発のため非公開）。
-1.  **Semiconductor Carrier Transport Simulator**
-    - 物理モデルからのフルスクラッチ実装 (Python/Taichi)
-    - ベイズ最適化による物性逆推定機能の実装
-2.  **Log Analysis & Recommendation Engine**
-    - インターン業務における大規模インフラデータ解析基盤の構築
+
+現在、研究および受託開発のため非公開リポジトリにて以下を開発中です。
+
+### 1. Semiconductor Carrier Transport Simulator 
+物理モデルを数式からフルスクラッチで実装し、半導体内部の電子挙動を解析するプロジェクト。
+- **Tech:** Python, Taichi (GPU Acceleration)
+- **Key Feature:** 放射電磁波波形から内部物性を逆推定するための、**ベイズ最適化（Bayesian Optimization）**アルゴリズムを実装。
+
+### 2. Log Analysis & Recommendation Engine 
+長期インターン業務における、大規模インフラデータの解析基盤構築およびレコメンドエンジンの開発。
+- **Focus:** 大量データの高速処理、MLOpsの実践。
+
+---
 
 ##  Personal Projects
-- **Paper Reader Assistant:** LLMを用いた論文要約・管理ツール
-- **Slide Generator:** Markdownからスライドを自動生成するツール
 
-ポートフォリオ
+自らの研究活動や学習を効率化するためのツールを自作しています。
 
-https://portfolio-psi-ten-t0oworr6eo.vercel.app/
+- **Paper Reader Assistant** 
+    - LLM APIを活用し、英語論文の要約・管理・Q&Aを一元化するアプリケーション。
+- **Slide Generator** 
+    - Markdown形式のメモから、研究発表用のスライドを自動生成するツール。
+
+<br />
+
+<div align="center">
+  <a href="https://portfolio-psi-ten-t0oworr6eo.vercel.app/">
+    <b>👉 Check out my Portfolio for more details</b>
+  </a>
+</div>
