@@ -36,11 +36,11 @@
 ### 1. Semiconductor Carrier Transport Simulator 
 物理モデルを数式からフルスクラッチで実装し、半導体内部の電子挙動を解析するプロジェクト。
 - **Tech:** Python, Taichi (GPU Acceleration)
-- **Key Feature:** 放射電磁波波形から内部物性を逆推定するための、ベイズ最適化（Bayesian Optimization）アルゴリズムを実装。
+- **Key Feature:** 放射電磁波波形から内部物性を逆推定するための、逆問題推定アルゴリズムを実装。
 
 ### 2. Log Analysis & Recommendation Engine 
-長期インターン業務における、大規模インフラデータの解析基盤構築およびレコメンドエンジンの開発。
-- **Focus:** 大量データの高速処理、MLOpsの実践。
+長期インターン業務における、アーキテクチャ設定からデプロイまでのフルスタック開発にたずさわる
+- **Focus:** 　コーディングによる課題解決能力、業務効率化ツールのデプロイ
 
 ---
 
